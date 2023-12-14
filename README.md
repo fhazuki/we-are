@@ -14,3 +14,14 @@
 
 
 #### We are 2/9,10
+決めるべきこと
+フロントエンドは何を使うのか
+候補 html,css,JavaScript,  React, Preactなど
+どれを使ってもパッケージ化はできる　htmlなどよりも、Preactのほうが軽いらしい
+メモリ使用量を最小限にいするにはPreactが良きかも
+PreactはReactと互換性のある軽量で高速なJavaScriptライブラリで
+Reactよりも軽量なファイルサイズで高速なレンダリング
+PreactはReactのコア機能をベース
+Reactよりも軽量
+読み込み速度が高速
+リソースの消費を削減できる
