@@ -14,7 +14,8 @@
 
 
 #### We are 2/9,10
-決めるべきこと
+
+**決めるべきこと**
 フロントエンドは何を使うのか
 候補 html,css,JavaScript,  React, Preactなど
 どれを使ってもパッケージ化はできる　htmlなどよりも、Preactのほうが軽いらしい
